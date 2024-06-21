@@ -22,14 +22,14 @@ All of included in the jupyter notebook file
 
 ## Installation
 To get started, you can run it on the Google Colab platform 
-1. Colab NMT English - Indo
-<a target="_blank" href="https://colab.research.google.com/github/Bangkit-C241-PS320/Machine-Translation/blob/main/neural_machine_translation_with_keras_nlp_english_indo.ipynb">
+1. Colab NMT English - Indo <a target="_blank" href="https://colab.research.google.com/github/Bangkit-C241-PS320/Machine-Translation/blob/main/neural_machine_translation_with_keras_nlp_english_indo.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab 1"/>
+</a>
+    
+2. Colab Indo -  Java <a target="_blank" href="https://colab.research.google.com/github/Bangkit-C241-PS320/Machine-Translation/blob/main/neural_machine_translation_with_keras_nlp_indo_javanese.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-2. Colab Indo -  Java
-<a target="_blank" href="https://colab.research.google.com/github/Bangkit-C241-PS320/Machine-Translation/blob/main/neural_machine_translation_with_keras_nlp_indo_javanese.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+
 
 ## Datasets
 The datasets used to train this models can be accessed by this link GCP Bucket [Dataset-Link](https://console.cloud.google.com/storage/browser/tourslate-model;tab=objects?forceOnBucketsSortingFiltering=true&authuser=1&project=tourslate-capstone)
