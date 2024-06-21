@@ -24,7 +24,7 @@ All of included in the jupyter notebook file
 To get started, you can run it on the Google Colab platform 
 
 ## Datasets
-The datasets used to train this models can be accessed by this link [Dataset-Link](https://drive.google.com/)
+The datasets used to train this models can be accessed by this link GCP Bucket [Dataset-Link](https://console.cloud.google.com/storage/browser/tourslate-model;tab=objects?forceOnBucketsSortingFiltering=true&authuser=1&project=tourslate-capstone)
 
 ## Contributing
 - Muhamad Ibnu Khaidar Hafiz - Machine Learning Path - Universitas Gunadarma - [Github](https://github.com/Cleign1) - [LinkedIn](https://www.linkedin.com/in/muhamad-ibnu-khaidar-hafiz/)
