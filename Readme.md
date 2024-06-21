@@ -25,3 +25,8 @@ To get started, you can run it on the Google Colab platform
 
 ## Datasets
 The datasets used to train this models can be accessed by this link [Dataset-Link](https://drive.google.com/)
+
+## Contributing
+- Muhamad Ibnu Khaidar Hafiz - Machine Learning Path - Universitas Gunadarma - [Github](https://github.com/Cleign1) - [LinkedIn](https://www.linkedin.com/in/muhamad-ibnu-khaidar-hafiz/)
+- Muhammad Zaidan Albert - Machine Learning Path - Universitas Brawijaya - [Github](https://github.com/Zaideadlox) - [LinkedIn](https://www.linkedin.com/in/zaidanalbert/)
+- James Smith Wigglesworth - Machine Learning Path - Universitas Indonesia - [Github](https://github.com/jamessmith404) - [LinkedIn](https://www.linkedin.com/in/james-smith-wigglesworth/)
