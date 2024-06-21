@@ -11,7 +11,7 @@ Welcome to the Machine Translations repository! This project is dedicated to Ban
 - [License](#license)
 
 ## Introduction
-Machine translation is the process of using artificial intelligence to automatically translate text from one language to another. This contains the model of machine translation for english to indonesian, and Indonesian to javanese
+Machine translation is the process of using artificial intelligence to automatically translate text from one language to another. This contains the model of machine translation for english to indonesian, and Indonesian to javanese.
 
 ## Features
 - Implementation of various machine translation models
